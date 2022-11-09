@@ -7,6 +7,6 @@ public class Main {
 		System.out.println("Changed Clone");
 		System.out.println("Changed clone after original");
 		System.out.println("Changed clone after original");
-
+		System.out.println("Changed clone after original 3 Test");
 	}
 }
